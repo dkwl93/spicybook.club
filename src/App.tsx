@@ -12,6 +12,8 @@ class App extends Component {
             alt="logo"
           />
           <p>SPICY BOOK CLUB</p>
+          <h3>Mar-Apr 2019</h3>
+          <p><a href="https://www.goodreads.com/book/show/29579.Foundation">Foundation - Isaac Asimov</a></p>
         </header>
       </div>
     );
